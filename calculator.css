@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding:0;
     line-height: 0.5;
-    background:linear-gradient(to left,#7808f0,#06bdf5);
+    background:linear-gradient(to left,#ff6600,#5900ff);
     font-family: sans-serif;
 }
 
@@ -30,7 +30,7 @@ font-size: 20;
 #display{
     
     border:none;
-    background: white;
+    background: rgb(255, 0, 149);
     border-radius: 30px;
     width: 245;
     font-size: 20;
@@ -50,7 +50,7 @@ font-size: 20;
     padding-top: -1;
     font-size: 20;
     border: none;
-    background: white;
+    background: rgb(255, 209, 209);
     font-family: sans-serif;
     font-weight: 300;
     border:0;
@@ -70,7 +70,7 @@ h1{
    
     text-decoration: underline;
 
-color: white;
+color: rgb(80, 52, 52);
 text-transform: uppercase;
 font-weight: 700;}
 
