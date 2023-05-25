@@ -30,7 +30,7 @@ font-size: 20;
 #display{
     
     border:none;
-    background: rgb(255, 0, 149);
+    background: rgb(121, 106, 114);
     border-radius: 30px;
     width: 245;
     font-size: 20;
@@ -50,7 +50,7 @@ font-size: 20;
     padding-top: -1;
     font-size: 20;
     border: none;
-    background: rgb(255, 209, 209);
+    background: rgb(151, 60, 60);
     font-family: sans-serif;
     font-weight: 300;
     border:0;
@@ -76,7 +76,7 @@ font-weight: 700;}
 
 h2{
 
-    color: white;
+    color: rgb(255, 226, 226);
     margin-top: -1px;
     font-family: sans-serif;
     margin-left: 438px;
@@ -89,7 +89,7 @@ h2{
     text-align: center;
     color: black;
     border: none;
-    background: white;
+    background: rgb(206, 180, 180);
     font-family: sans-serif;
     font-weight: 500;
     border:0;
